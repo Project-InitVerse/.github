@@ -2,14 +2,25 @@
 ---
 
 ## 📦 Introduction
-InitVerse is an automated Web3 SaaS platform tailored for emerging businesses, facilitating rapid DApp development and deployment with just a few clicks.
+InitVerse is dedicated to building enterprise-grade infrastructure for the Web3 ecosystem, led by INIChain, which integrates innovative TfhEVM and DDA Mechanism technologies to enhance blockchain performance, privacy, and resource efficiency.
+
+With INIChain as its foundation, InitVerse’s SaaS Builder simplifies DApp creation and deployment, empowering developers and enterprises to focus on growth. The ecosystem also includes tools like Clown Wallet and Obs Swap, delivering comprehensive support for users and developers alike. InitVerse drives blockchain innovation while creating convenience and value across the Web3 space.
 
 ## 📚 Documentation
-- [xxxx-docs](https://initverse.org/developer)
+- [Wiki](https://inichain.gitbook.io/initverse)
+- [Inichain Whitepaper](https://resource.inichain.com/whitepaper.pdf)
 
 ## Projects list
-- [Genesis Testnet](https://genesis-testnet.inichain.com/)
-- [Pioneer Testnet](https://pioneer-testnet.inichain.com/)
-- [Quest Platform](https://candy.inichain.com/)
+- [SaaS](https://initverse.org)
+- [Chain](https://inichain.com)
+- [Obsswap](https://test.obsswap.org)
+- [Clownwallet](https://www.clownwallet.com)
 
 ## 📨 Interactive
+- [Telegram](https://t.me/InitVerseWeb3)
+- [ X ](https://x.com/InitVerse)
+- [ Discord ](https://discord.com/invite/InitVerse)
+- [ Facebook ](https://www.facebook.com/people/InitVerse/61552239852292/?mibextid=LQQJ4d)
+- [ Linkedin ]( https://www.linkedin.com/company/initverse)
+- [ Youtube ]( https://www.youtube.com/@InitVerse)
+
