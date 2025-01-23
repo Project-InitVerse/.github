@@ -7,7 +7,7 @@ InitVerse is dedicated to building enterprise-grade infrastructure for the Web3 
 With INIChain as its foundation, InitVerse’s SaaS Builder simplifies DApp creation and deployment, empowering developers and enterprises to focus on growth. The ecosystem also includes tools like Clown Wallet and Obs Swap, delivering comprehensive support for users and developers alike. InitVerse drives blockchain innovation while creating convenience and value across the Web3 space.
 
 ## 📚 Documentation
-- [Wiki](https://inichain.gitbook.io/initverse)
+- [Wiki](https://inichain.gitbook.io/initverseinichain)
 - [Inichain Whitepaper](https://resource.inichain.com/whitepaper.pdf)
 
 ## Projects list
